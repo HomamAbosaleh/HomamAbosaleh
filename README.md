@@ -7,27 +7,32 @@
 - 🥅 2022 Goals: Learn more about Robotics 
 - ⚡ Fun fact: I am workaholic
 
-### Languages and Tools:
+### My projects (Feel free to look around):
+- [AGU-APP][flutter]
+- [Python_Firebase][python]
+- [Finance][flask]
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio" width="26px" src="./img/vs.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;">
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="./img/java.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="./img/python.svg" style="padding-right:10px;" />
-<img align="left" alt="PHP" width="26px" src="./img/php.svg" style="padding-right:10px;" />
-<img align="left" alt="Laravel" width="26px" src="./img/laravel.svg" style="padding-right:10px;" />
-<img align="left" alt="C#" width="26px" src="./img/c-sharp.svg" style="padding-right:10px;" />
-<img align="left" alt="Flutter" width="26px" src="./img/Flutter.svg" style="padding-right:10px;" />
-<img align="left" alt="Flask" width="26px" src="./img/flask.svg" style="padding-right:10px;" />
-<img align="left" alt="Ubuntu" width="26px" src="./img/ubuntu.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="MSSQL" width="26px" src="./img/mssql.svg" style="padding-right:10px;" />
+#### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Visual Studio" width="26px" src="./img/vs.svg" style="padding-right:10px;"/>
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Java" width="26px" src="./img/java.svg" style="padding-right:10px;"/>
+<img align="left" alt="Python" width="26px" src="./img/python.svg" style="padding-right:10px;"/>
+<img align="left" alt="PHP" width="26px" src="./img/php.svg" style="padding-right:10px;"/>
+<img align="left" alt="Laravel" width="26px" src="./img/laravel.svg" style="padding-right:10px;"/>
+<img align="left" alt="C#" width="26px" src="./img/c-sharp.svg" style="padding-right:10px;"/>
+<img align="left" alt="Flutter" width="26px" src="./img/Flutter.svg" style="padding-right:10px;"/>
+<img align="left" alt="Flask" width="26px" src="./img/flask.svg" style="padding-right:10px;"/>
+<img align="left" alt="Ubuntu" width="26px" src="./img/ubuntu.svg" style="padding-right:10px;"/>
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/>
+<img align="left" alt="MSSQL" width="26px" src="./img/mssql.svg" style="padding-right:10px;"/>
 <br/>
 
-### Find me at:
+#### Find me at:
 
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/homam-abosaleh#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/homam-abosaleh#gh-dark-mode-only)
@@ -44,3 +49,6 @@
 </details>
 
 [linkedin]: www.linkedin.com/in/homam-abosaleh
+[flutter]: https://github.com/HomamAbosaleh/AGU-App
+[python]: https://github.com/HomamAbosaleh/Python_Firebase
+[flask]: https://github.com/HomamAbosaleh/Finance
