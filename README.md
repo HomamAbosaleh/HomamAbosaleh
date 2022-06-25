@@ -19,7 +19,7 @@
 <img align="left" alt="PHP" width="26px" src="./img/php.svg" style="padding-right:10px;" />
 <img align="left" alt="Laravel" width="26px" src="./img/laravel.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="./img/c-sharp.svg" style="padding-right:10px;" />
-<img align="left" alt="Flutter" width="26px" src="./img/flutter.svg" style="padding-right:10px;" />
+<img align="left" alt="Flutter" width="26px" src="./img/Flutter.svg" style="padding-right:10px;" />
 <img align="left" alt="Flask" width="26px" src="./img/flask.svg" style="padding-right:10px;" />
 <img align="left" alt="Ubuntu" width="26px" src="./img/ubuntu.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
