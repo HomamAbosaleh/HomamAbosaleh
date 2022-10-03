@@ -35,9 +35,9 @@
 
 #### Find me at:
 
-[![linkedin](./img/transparent.svg)](https://linkedin.com/in/homam-abosaleh#gh-light-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/homam-abosaleh#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/homam-abosaleh#gh-dark-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/homam-abosaleh#gh-dark-mode-only)
+[![website](./img/transparent.svg)](https://linkedin.com/in/homam-abosaleh)
 <br />
 <br />
 
