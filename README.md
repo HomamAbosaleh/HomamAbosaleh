@@ -11,6 +11,7 @@
 - [AGU-APP][flutter]
 - [Python_Firebase][python]
 - [Finance][flask]
+- [Wordle][wordle]
 
 #### Languages and Tools:
 
@@ -52,3 +53,4 @@
 [flutter]: https://github.com/HomamAbosaleh/AGU-App
 [python]: https://github.com/HomamAbosaleh/Python_Firebase
 [flask]: https://github.com/HomamAbosaleh/Finance
+[wordle]: https://github.com/HomamAbosaleh/wordle
