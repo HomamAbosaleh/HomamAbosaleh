@@ -1,10 +1,10 @@
 
 # Hi there, I'm Homam 👋 
 
-## I'm a Student, Developer, and an Engineer.
+## I'm a Student, Full-Stack Developer, and an Engineer.
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about Robotics 
+- 🥅 2024 Goals: Learn more about Robotics 
 - ⚡ Fun fact: I am workaholic
 
 ### My projects (Feel free to look around):
